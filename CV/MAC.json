@@ -11,8 +11,8 @@
       "title": "iOS Developer & Android Developer #KeepCoding #KeepCoder",
       "description": "👨‍💻💡 ¡Hola, Soy Pedro Liébana! Mi carrera profesional ha estado vinculada a un mundo completamente diferente al de la tecnología de la información (TI), pero mi interés siempre ha estado orientado en esa dirección. Inicié mi viaje autodidacta en la programación utilizando Python, HTML y CSS. Estas herramientas no solo despertaron mi verdadera pasión, sino que también me impulsaron a emprender un cambio de 180 grados en mi carrera.\n\n📚 Soy una persona apasionada por el conocimiento, siempre en constante búsqueda de nuevas habilidades y aprendizajes. Me caracterizo por convertir debilidades en fortalezas a través de la formación continua.\n\n👨‍💻💻 Recientemente, completé con éxito un Bootcamp de Desarrollo FullStack Mobile, especializándome en tecnologías como #Swift y #SwiftUI para #iOS, así como #Kotlin y #Compose para #Android. Ahora, estoy emocionado por emprender un nuevo camino profesional enfocado en mis conocimientos adquiridos.\n\n🚀 Puedes seguir mi progreso y explorar mis proyectos en mi GitHub: GitHub/Castellano46.\n\n#DesarrolloDeApps #AppsMóviles #Developer #MVC #MVVM #Swift #UX #UI #Tecnología #Figma #AutoLayout #CoreData #Keychain #Firebase #Git #DesignPatterns #Mobile #FullStack\n#KeepCoding #Bootcamp #ExperienciaKeepCoding #iOS #SwiftUI #Xcode #Kotlin #AndroidStudio #KeepCoding #KeepCoder",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/934c13be-7fb7-4462-8579-ed66028f4f2c_linkedin-photo-63703.linkedin-photo-63703",
-        "alt": "24/06/07/934c13be-7fb7-4462-8579-ed66028f4f2c_linkedin-photo-63703.linkedin-photo-63703"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/f297f966-d14a-4884-af62-d6fa3231c4a8_linkedin-photo-63703.linkedin-photo-63703",
+        "alt": "24/06/07/f297f966-d14a-4884-af62-d6fa3231c4a8_linkedin-photo-63703.linkedin-photo-63703"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJeSsrRkjObQ0RDkqzeslEHaY)",
@@ -24,6 +24,140 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/pedroliebana"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Alborán Formación S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/2ec8282d-0038-40f6-a918-2e0a99692959_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/2ec8282d-0038-40f6-a918-2e0a99692959_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software, Formador",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Formación dividida en clases teóricas y prácticas sobre los principios fundamentales del desarrollo de software, incluyendo lenguajes de programación, metodologías de desarrollo y mejores prácticas de codificación.\nDiseño y desarrollo de materiales didácticos innovadores, recursos de aprendizaje y actividades prácticas para mejorar la comprensión y el compromiso de los estudiantes.\nEvaluación del progreso de los estudiantes y proporcionar retroalimentación constructiva para fomentar su crecimiento y desarrollo profesional.\nColaborar con el equipo académico para mantener el currículo actualizado y relevante, incorporando las últimas tendencias y avances en tecnología de software.\nFomentar un entorno de aprendizaje inclusivo y colaborativo, donde los estudiantes se sientan motivados y apoyados para alcanzar su máximo potencial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "C.E.I.P Maestra Ángeles Cuesta"
+        },
+        "roles": [
+          {
+            "name": "Maestro",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-07-31",
+            "challenges": [
+              {
+                "description": "Maestro tutor en el curso de tercero de Educación Primaria"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "C.E.I.P Nuestra Señora de las Veredas"
+        },
+        "roles": [
+          {
+            "name": "Maestro, primero y segundo de ESO",
+            "startDate": "2021-02-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "Maestro en los cursos de primero y segundo de las ESO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DEPORSA SERVICIOS Y ACTIVIDADES EDUCATIVAS Y DEPORTIVAS SL"
+        },
+        "roles": [
+          {
+            "name": "Monitor de robótica e inglés.",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Creatividad · Inteligencia emocional · Comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Valeo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/8efdd6a2-2796-4ad4-8b0e-1439391faa14_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/8efdd6a2-2796-4ad4-8b0e-1439391faa14_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jefe de equipo",
+            "startDate": "2015-04-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Skills: Inteligencia emocional · Resolución de problemas · Responsabilidad · Liderazgo de equipos · Flexibilidad · Gestión del tiempo · Trabajo en equipo · Comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Excelentísimo ayuntamiento de Jamilena"
+        },
+        "roles": [
+          {
+            "name": "Coordinador de ayuda asistencial",
+            "startDate": "2014-11-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Inteligencia emocional · Resolución de problemas · Responsabilidad · Liderazgo de equipos · Flexibilidad · Trabajo en equipo · Comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Combray Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/dab95090-e632-44cb-8533-59326844d2b3_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/dab95090-e632-44cb-8533-59326844d2b3_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "roles": [
+          {
+            "name": "Comercial",
+            "startDate": "2013-02-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Comunicación"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -129,8 +263,8 @@
         "institution": {
           "name": "KeepCoding",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/4c912bca-88a0-41b6-9406-0d036ecd6eea_linkedin-photo-63703.linkedin-photo-63703",
-            "alt": "24/06/07/4c912bca-88a0-41b6-9406-0d036ecd6eea_linkedin-photo-63703.linkedin-photo-63703"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/ca29404a-09f5-4fc9-842d-fb07d7ee3a0a_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/ca29404a-09f5-4fc9-842d-fb07d7ee3a0a_linkedin-photo-63703.linkedin-photo-63703"
           }
         },
         "finishDate": "2024-02-28"
@@ -143,8 +277,8 @@
         "institution": {
           "name": "KeepCoding",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/587f4fe2-5ddd-4f5c-a1a5-d10c0b2d16c3_linkedin-photo-63703.linkedin-photo-63703",
-            "alt": "24/06/07/587f4fe2-5ddd-4f5c-a1a5-d10c0b2d16c3_linkedin-photo-63703.linkedin-photo-63703"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/8f5f029a-6ecd-49b1-a492-629f95981c69_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/8f5f029a-6ecd-49b1-a492-629f95981c69_linkedin-photo-63703.linkedin-photo-63703"
           }
         },
         "finishDate": "2024-01-31"
