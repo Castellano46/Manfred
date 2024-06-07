@@ -2,7 +2,7 @@
 
 # Pedro Liébana Castellano's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/3d28602e-ce37-48e8-bb69-3e015e20c532).
 <br/>
 <br/>
 
