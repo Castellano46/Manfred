@@ -321,6 +321,10 @@
         {
           "name": "SwiftUI",
           "type": "technology"
+        },
+        {
+          "name": "XCode",
+          "type": "technology"
         }
       ]
     },
