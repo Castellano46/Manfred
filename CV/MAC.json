@@ -317,6 +317,10 @@
         {
           "name": "Swift",
           "type": "technology"
+        },
+        {
+          "name": "SwiftUI",
+          "type": "technology"
         }
       ]
     },
