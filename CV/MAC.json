@@ -1,0 +1,302 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pedro",
+      "surnames": "Liébana Castellano",
+      "title": "iOS Developer & Android Developer #KeepCoding #KeepCoder",
+      "description": "👨‍💻💡 ¡Hola, Soy Pedro Liébana! Mi carrera profesional ha estado vinculada a un mundo completamente diferente al de la tecnología de la información (TI), pero mi interés siempre ha estado orientado en esa dirección. Inicié mi viaje autodidacta en la programación utilizando Python, HTML y CSS. Estas herramientas no solo despertaron mi verdadera pasión, sino que también me impulsaron a emprender un cambio de 180 grados en mi carrera.\n\n📚 Soy una persona apasionada por el conocimiento, siempre en constante búsqueda de nuevas habilidades y aprendizajes. Me caracterizo por convertir debilidades en fortalezas a través de la formación continua.\n\n👨‍💻💻 Recientemente, completé con éxito un Bootcamp de Desarrollo FullStack Mobile, especializándome en tecnologías como #Swift y #SwiftUI para #iOS, así como #Kotlin y #Compose para #Android. Ahora, estoy emocionado por emprender un nuevo camino profesional enfocado en mis conocimientos adquiridos.\n\n🚀 Puedes seguir mi progreso y explorar mis proyectos en mi GitHub: GitHub/Castellano46.\n\n#DesarrolloDeApps #AppsMóviles #Developer #MVC #MVVM #Swift #UX #UI #Tecnología #Figma #AutoLayout #CoreData #Keychain #Firebase #Git #DesignPatterns #Mobile #FullStack\n#KeepCoding #Bootcamp #ExperienciaKeepCoding #iOS #SwiftUI #Xcode #Kotlin #AndroidStudio #KeepCoding #KeepCoder",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/1a50f4f0-3056-4638-9ce6-5d28b63d56d7_linkedin-photo-63703.linkedin-photo-63703",
+        "alt": "24/06/07/1a50f4f0-3056-4638-9ce6-5d28b63d56d7_linkedin-photo-63703.linkedin-photo-63703"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJeSsrRkjObQ0RDkqzeslEHaY)",
+        "country": "España",
+        "region": "Andalucía"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/pedroliebana"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Alborán Formación S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/8e4a76bb-b5ea-4604-aabd-373fe1635b4e_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/8e4a76bb-b5ea-4604-aabd-373fe1635b4e_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software, Formador",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Formación dividida en clases teóricas y prácticas sobre los principios fundamentales del desarrollo de software, incluyendo lenguajes de programación, metodologías de desarrollo y mejores prácticas de codificación.\nDiseño y desarrollo de materiales didácticos innovadores, recursos de aprendizaje y actividades prácticas para mejorar la comprensión y el compromiso de los estudiantes.\nEvaluación del progreso de los estudiantes y proporcionar retroalimentación constructiva para fomentar su crecimiento y desarrollo profesional.\nColaborar con el equipo académico para mantener el currículo actualizado y relevante, incorporando las últimas tendencias y avances en tecnología de software.\nFomentar un entorno de aprendizaje inclusivo y colaborativo, donde los estudiantes se sientan motivados y apoyados para alcanzar su máximo potencial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "C.E.I.P Maestra Ángeles Cuesta"
+        },
+        "roles": [
+          {
+            "name": "Maestro",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-07-31",
+            "challenges": [
+              {
+                "description": "Maestro tutor en el curso de tercero de Educación Primaria"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "C.E.I.P Nuestra Señora de las Veredas"
+        },
+        "roles": [
+          {
+            "name": "Maestro, primero y segundo de ESO",
+            "startDate": "2021-02-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "Maestro en los cursos de primero y segundo de las ESO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DEPORSA SERVICIOS Y ACTIVIDADES EDUCATIVAS Y DEPORTIVAS SL"
+        },
+        "roles": [
+          {
+            "name": "Monitor de robótica e inglés.",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Creatividad · Inteligencia emocional · Comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Valeo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/5e7590b8-77f7-4d58-a658-eefa2ef4f76a_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/5e7590b8-77f7-4d58-a658-eefa2ef4f76a_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jefe de equipo",
+            "startDate": "2015-04-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Skills: Inteligencia emocional · Resolución de problemas · Responsabilidad · Liderazgo de equipos · Flexibilidad · Gestión del tiempo · Trabajo en equipo · Comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Excelentísimo ayuntamiento de Jamilena"
+        },
+        "roles": [
+          {
+            "name": "Coordinador de ayuda asistencial",
+            "startDate": "2014-11-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Inteligencia emocional · Resolución de problemas · Responsabilidad · Liderazgo de equipos · Flexibilidad · Trabajo en equipo · Comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Combray Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/cc8e456e-c0e7-4716-a229-01502894f7ad_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/cc8e456e-c0e7-4716-a229-01502894f7ad_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "roles": [
+          {
+            "name": "Comercial",
+            "startDate": "2013-02-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Comunicación"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SwiftUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XCode",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Apps Móviles, Desarrollo de aplicaciones",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "KeepCoding",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/4c912bca-88a0-41b6-9406-0d036ecd6eea_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/4c912bca-88a0-41b6-9406-0d036ecd6eea_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "finishDate": "2024-02-28"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Fundamentos de Desarrollo iOS",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "KeepCoding",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/07/587f4fe2-5ddd-4f5c-a1a5-d10c0b2d16c3_linkedin-photo-63703.linkedin-photo-63703",
+            "alt": "24/06/07/587f4fe2-5ddd-4f5c-a1a5-d10c0b2d16c3_linkedin-photo-63703.linkedin-photo-63703"
+          }
+        },
+        "finishDate": "2024-01-31"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/pedroliebana",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "pedroliebana35@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
