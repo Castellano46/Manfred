@@ -24,6 +24,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/pedroliebana"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Castellano46"
       }
     ]
   },
@@ -291,6 +295,10 @@
         {
           "URL": "https://linkedin.com/in/pedroliebana",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Castellano46",
+          "type": "github"
         }
       ],
       "contactMails": [
