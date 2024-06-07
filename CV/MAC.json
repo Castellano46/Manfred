@@ -332,5 +332,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Gitflow",
+        "type": "technology"
+      },
+      {
+        "name": "Objective-C",
+        "type": "technology"
+      },
+      {
+        "name": "SwiftUI",
+        "type": "technology"
+      },
+      {
+        "name": "XCode",
+        "type": "technology"
+      }
+    ]
   }
 }
