@@ -312,6 +312,14 @@
         "pedroliebana35@gmail.com"
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Swift",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
